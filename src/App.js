@@ -195,19 +195,6 @@ function App() {
                     )}
                 </div>
             </div>
-            <div
-                style={{
-                    position: 'fixed',
-                    bottom: 0,
-                    left: 0,
-                    right: 0,
-                    textAlign: 'center',
-                    padding: '1rem 0',
-                    fontSize: 14,
-                }}
-            >
-                <span>Được làm bởi UnicornL (lengoclan.work@gmail.com)</span>
-            </div>
         </Wrapper>
     )
 }
